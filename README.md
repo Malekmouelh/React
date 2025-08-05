@@ -2,7 +2,7 @@
 
 Ce projet est une application web de gestion d'utilisateurs avec authentification, développée dans le cadre d'un stage chez **TREETRONIX Tunisie**.
 
-## 🧰 Stack technique
+##  Stack technique
 
 - **Frontend** : React, React Router, Axios, CSS
 - **Backend** : Node.js, Express, Mongoose, Multer, Bcrypt, JWT
@@ -11,7 +11,7 @@ Ce projet est une application web de gestion d'utilisateurs avec authentificatio
 
 ---
 
-## 🚀 Lancement du projet
+##  Lancement du projet
 
 ### 1. Cloner le dépôt
 
@@ -65,7 +65,7 @@ monprojet/
 
 ---
 
-## ✅ Fonctionnalités
+##  Fonctionnalités
 
 - Authentification sécurisée (JWT)
 - Création, modification et suppression d’utilisateurs
@@ -76,7 +76,7 @@ monprojet/
 
 ---
 
-## ⚙️ Variables d'environnement
+##  Variables d'environnement
 
 Créez un fichier `.env` dans `/backend` contenant :
 
@@ -87,13 +87,13 @@ JWT_SECRET=un_token_secret
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Projet open-source dans un cadre pédagogique. Usage libre et non commercial.
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Mouhamed Malek Mouelhi**  
 Stage réalisé chez **TREETRONIX Tunisie**
