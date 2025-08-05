@@ -1,6 +1,6 @@
-# Dashboard Auth Application
+# Dashboard Auth & Ticketing Application
 
-Ce projet est une application web de gestion d'utilisateurs avec authentification, développée dans le cadre d'un stage chez **TREETRONIX Tunisie**.
+Ce projet est une application web complète de **gestion des utilisateurs, des réclamations (tickets)** et de **commandes de produits**, développée dans le cadre d’un stage chez **TREETRONIX Tunisie**.
 
 ##  Stack technique
 
@@ -44,7 +44,7 @@ L'application sera accessible sur : [http://localhost:3000](http://localhost:300
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 monprojet/
@@ -69,6 +69,9 @@ monprojet/
 
 - Authentification sécurisée (JWT)
 - Création, modification et suppression d’utilisateurs
+- Système de gestion des tickets (réclamations)
+- Système de gestion de produits et commandes
+- Interface dédiée pour les administrateurs
 - Upload de photo de profil via Multer
 - Changement de mot de passe
 - Interface utilisateur claire et responsive
